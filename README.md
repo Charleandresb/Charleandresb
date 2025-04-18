@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Carlos Muñoz
 ### I'm Web Developer recent graduate from Tripleten Latam
 
-![https://github.com/Charleandresb](https://i.pinimg.com/1200x/6c/99/e2/6c99e2b9d789178ccc7912d2c0c992e0.jpg)
+<img src="https://i.pinimg.com/1200x/6c/99/e2/6c99e2b9d789178ccc7912d2c0c992e0.jpg" width="500" />
 
 <!--
 **Charleandresb/Charleandresb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -23,4 +23,4 @@ I enjoy helping bring ideas to life through projects using technology tools. Rec
 ![Google](https://img.shields.io/badge/Google_Cloud-02C1FE?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-02C1FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/charlesmunozaraya/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/charlesmunozaraya/)
